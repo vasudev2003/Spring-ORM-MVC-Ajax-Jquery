@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="srpingorm">
+    <output-path>$PROJECT_DIR$/out/artifacts/srpingorm</output-path>
+    <root id="root" />
+  </artifact>
+</component>
